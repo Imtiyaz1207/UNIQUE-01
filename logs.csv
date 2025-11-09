@@ -1,0 +1,39 @@
+timestamp,event,ip_address,password_attempt,result
+2025-11-08 13:05:07,page_visit,127.0.0.1,,
+2025-11-08 13:05:21,password_attempt,127.0.0.1,23E51A05C1,correct
+2025-11-08 13:05:23,video_button_clicked,127.0.0.1,,clicked
+2025-11-08 13:06:10,story_uploaded,127.0.0.1,,success
+2025-11-08 19:37:12,page_visit,127.0.0.1,,
+2025-11-08 19:37:17,password_attempt,127.0.0.1,23E51A05C1,correct
+2025-11-08 19:37:20,video_button_clicked,127.0.0.1,,clicked
+2025-11-08 19:40:21,page_visit,127.0.0.1,,
+2025-11-08 19:40:25,password_attempt,127.0.0.1,23E51A05C1,correct
+2025-11-08 19:40:27,video_button_clicked,127.0.0.1,,clicked
+2025-11-08 19:46:38,page_visit,127.0.0.1,,
+2025-11-08 19:46:45,password_attempt,127.0.0.1,23E51A05C1,correct
+2025-11-08 19:46:47,video_button_clicked,127.0.0.1,,clicked
+2025-11-08 19:49:30,page_visit,127.0.0.1,,
+2025-11-08 19:49:46,password_attempt,127.0.0.1,23E51A05C1,correct
+2025-11-08 19:49:47,video_button_clicked,127.0.0.1,,clicked
+2025-11-08 19:57:57,,127.0.0.1,,ok
+2025-11-08 19:57:59,,127.0.0.1,,ok
+2025-11-08 19:58:30,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 19:58:30,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 19:58:36,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 19:58:36,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 19:58:47,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 19:58:47,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 19:58:48,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:01:07,,127.0.0.1,,ok
+2025-11-08 20:01:09,,127.0.0.1,,ok
+2025-11-08 20:01:44,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:01:44,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 20:01:47,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:01:47,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 20:01:54,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:01:54,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 20:01:59,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:01:59,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 20:02:04,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
+2025-11-08 20:02:04,upload_failed,127.0.0.1,[WinError 32] The process cannot access the file because it is being used by another process: 'static\\uploads\\WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4',error
+2025-11-08 20:02:08,story_uploaded,127.0.0.1,https://res.cloudinary.com/dyz5ykx8f/video/upload/v1762612104/secret_stories/WhatsApp_Video_2025-11-08_at_15.36.14_47a1610b.mp4,success
